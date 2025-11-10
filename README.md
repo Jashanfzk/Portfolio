@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jashanpreet Singh Gill - Portfolio
 
 A clean, modern, and responsive portfolio website showcasing full-stack development skills.
@@ -113,3 +114,6 @@ portfolio/
 ---
 
 **Built with modern web technologies**
+=======
+# Portfolio
+>>>>>>> 580dae04d3c4e198e59abe3fb565fece115c0535
